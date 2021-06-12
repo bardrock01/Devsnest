@@ -21,3 +21,10 @@
     margin-top: 50%;
     padding-bottom: 20%;
 }
+
+.Output-Field {
+    border: 2px solid;
+    margin-top: 55px;
+    padding-top: 5%;
+    margin-left: 33%
+}

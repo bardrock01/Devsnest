@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.boxBackground {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    height: 730px;
+    width: 730px;
+    border: 1px sienna solid;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.newBox:hover {
+    background-color: silver;
+    cursor: pointer;
+}
+
+.randomClass {
+    background-color: grey;
+}

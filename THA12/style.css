@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.inputField {
+    background-color: darkblue;
+    border: 2px solid black;
+}
+
+body {
+    background: url("https://www.psdgraphics.com/wp-content/uploads/2018/09/rainbow-blocks.jpg");
+    background-size: cover;
+}
+
+.inputkejagah {
+    /* padding-left: 302px; */
+    width: 500px;
+}
+
+.addBtn {
+    margin-left: 500px;
+}
+
+.btn {
+    margin-bottom: 20px;
+}
+
+.saveInput {
+    border: 2px solid black;
+}

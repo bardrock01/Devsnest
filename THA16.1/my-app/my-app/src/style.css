@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Main{
+    border: 25px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-top: 10%;
+    height: 450px;
+    width: 450px;
+}
+.cardContainer{
+    background-color: black;
+    border :1px solid yellow;
+    height:50px;
+    width: 50px;
+}
+.row:nth-child(even) .cardContainer:nth-child(odd) {
+    background-color: black;
+  }
+  .row:nth-child(odd) .cardContainer:nth-child(even) {
+    background-color:white;
+  }

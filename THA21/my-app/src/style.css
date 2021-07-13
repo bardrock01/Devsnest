@@ -4,15 +4,16 @@
     box-sizing: border-box;
 }
 .main{
+    
+    border: 2px solid red;
     display: flex;
-    flex-direction:column;
-    height: 100vh;
-    width: 100vw;
+    height: 520px;
+    width:  400px;
 
 }
 .classContainer{
     border: 2px solid black;
-    width: 100%;
+    width: 50%;
     height: 60%;
     background-color: #123;
     
@@ -20,6 +21,6 @@
 }
 .editcontainer{
     border: 2px solid black;
-    
+    width: 50%
 
 }

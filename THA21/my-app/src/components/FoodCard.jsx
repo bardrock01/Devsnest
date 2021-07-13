@@ -2,7 +2,7 @@ function FoodCard(props){
     return(
     <div className="foodCard">
        <div className="Foodtitle">
-         {props.foodkanaam}
+         
        </div>
 
        <div className="Calorie">

@@ -1,18 +1,13 @@
 import {useState} from "react";
 import FoodCard from "./FoodCard"
-// var arr = [];
-// clickMe = (foodname) => {
-//     this.foodname.clickMe()
-// }
-
-// clickMe = (event) => {
-//     this.props.clickMe(event.target.value)
-// }
-const Edit=(props)=>{
-const [foodname, setFoodname]= useState("");
-const [calorie, setCalorie]= useState("0");
 
 
+    
+
+
+function Edit(props){
+    const [foodname,  setFoodname]= useState("");
+    const [calorie,  setCalorie]= useState("");
     
     return(
 
@@ -28,17 +23,23 @@ const [calorie, setCalorie]= useState("0");
             </label>
 
             <div className="addbtn">
-                <button onClick={() => props.noClickMe()}>No, Click Me!</button>
+                <button type="submit" onClick={()=>{props.foodkanaam(foodname)}} >No, Click Me!</button>
             </div>
         </form> 
          
     )   
 }
 function App(){
+    const arrayAdd=(foodname)=>{
+        console.log(foodname)
+        return({
+             khaneKaNaam:foodname
+        })
+    }
     return(
     <div className="main">
       <div className="classContainer">
-        <FoodCard foodkanaam=submit cal ="69"  />       
+        <FoodCard  foodkanaam="sankalp />
       </div>
       <div className="editContainer">
         <Edit/>

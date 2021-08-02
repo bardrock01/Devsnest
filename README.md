@@ -1,3 +1,28 @@
+<h2>
+    <samp> D E V S N E S T &nbsp;-&nbsp; F R O N T E N D</samp>
+    <img align="right" src="https://github.com/thisiskartikgupta/Devsnest-Frontend/blob/main/readme_files/logo_devsnest.png" alt="Devsnest doc" width="120px" />
+</h2>
+<br/>
+
+__Education which makes you financially independent.__
+_A mentorship program designed to help you get your dream job. It evolves as per your needs to mould you into a kickass developer._
+
+__*[Devsnest Course Processes and Flows](https://www.notion.so/Devsnest-Course-Processes-and-Flows-5d14822666bd48e9ae601a241555b4c3)*__
+
+NAME : ```SANKALP JAITLY``` | TEAM : ```TEAM TRY CATCH``` | DISCORD: ```Sankalp Senpai#3355``` |
+--- | --- | --- |
+
+---
+
+<h3 align="center">
+    <strong>TAKE HOME ASSIGNMENTS(THA)</strong>
+</h3>
+
+---
+
+
+
+
 | DAY 	| TOPIC                                         	| THA                                                                                   	| REPO:LINK                                                              	| LIVE LINK 	|
 |-----	|-----------------------------------------------	|---------------------------------------------------------------------------------------	|------------------------------------------------------------------------	|-----------	|
 |  01 	| Introduction to HTML                          	| ```Create a letter template as per given image```                                     	| [THA1](https://github.com/bardrock01/Devsnest/tree/main/THA1)          	|           	|

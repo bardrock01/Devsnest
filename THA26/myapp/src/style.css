@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color:rgb(1, 11, 17);
+}
+
+.App {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.input-container {
+  padding: 25px;
+  background-color: rgba(7, 75, 223, 0.76);
+  height: 400px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  
+  font-size: 20px;
+}
+
+.username {
+  
+  padding: 15px 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* background-color: rgb(46, 46, 48); */
+}
+
+.password {
+  
+  padding: 15px 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;  
+  
+  /* background-color: rgb(75, 114, 24); */
+}
+
+label {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+
+input {
+  border: none;
+  
+  outline: none;
+  padding: 0 10px;
+  font-size: 18px;
+  height: 35px;
+}
+
+.name {
+  color: rgb(247, 21, 21);
+  font-weight: 600;
+  font-size: 20px;
+  font-family: sans-serif;
+  
+  overflow-y: hidden;
+}
+.passout {
+  color: rgb(212, 132, 57);
+  font-weight: 600;
+  font-size: 20px;
+  font-family: sans-serif;
+  
+  overflow-y: hidden;
+}

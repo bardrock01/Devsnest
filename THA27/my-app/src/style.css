@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: rgb(154, 231, 91);
+  }
+  .form-container {
+    max-width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .form {
+    margin-top: 30px;
+    margin-bottom: 60px;
+    width: 450px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-between; */
+    align-items: center;
+  }
+  
+  .inpt {
+    /* margin: 30px 0; */
+    height: 40px;
+    width: 425px;
+   
+  }
+  .btn {
+    height: 40px;
+    width: 100px;
+   background-color: cornsilk;
+    /* margin: 0 30px; */
+  }
+  .inpt input {
+    width: 100%;
+    height: 100%;
+    padding: 0 10px;
+    font-size: 18px;
+  }
+  .btn button {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
+  .todos {
+    padding: 0 30px;
+    display: flex;
+    width: 100vw;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    /* justify-content: space-around;
+    flex-wrap: wrap; */
+  }
+  
+  .todo-card {
+    /* display: flex;
+    flex-direction: column; */
+    /* justify-content: space-between; */
+    width: 250px;
+    height: 150px;
+    margin-bottom: 4px;
+    /* border: 2px solid black; */
+    overflow-wrap: break-word;
+  }
+  
+  .todo-card .doneBtn {
+    height: 18%;
+    width: 50%;
+  }
+  
+  .todo-card .delBtn {
+    height: 18%;
+    width: 50%;
+  }
+  
+  .todo-card .content {
+    height: 20%;
+    width: 100%;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-style: italic;
+    padding: 10px 20px;
+  }
+  
+  .todo-card button {
+    width: 100%;
+    height: 50%;
+    font-size: 11px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .doneBtn button {
+    background-color: rgb(125, 202, 36);
+  }
+  .delBtn button {
+    background-color: rgb(156, 14, 126);
+  }

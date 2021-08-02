@@ -1,28 +1,28 @@
-|  DAY 	|TOPIC   	|   THA	|   REPO:LINK	|   LIVE	|
-|---	|---	|---	|---	|---	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
+| DAY  	| TOPIC                                      	| THA                                                                         	| REPO:LINK                                                     	| LIVE LINK 	|
+|------	|--------------------------------------------	|-----------------------------------------------------------------------------	|---------------------------------------------------------------	|-----------	|
+|  01  	| Introduction to HTML                       	| ```Create a letter template as per given image```                           	| [THA1](https://github.com/bardrock01/Devsnest/tree/main/THA1) 	|           	|
+|  02  	| Introduction to CSS                        	| ```Style the letter template from previous THA using CSS```                 	|                                                               	|           	|
+|  03  	| Continuing with CSS                        	| ```Create a resume template as per givern image with use of CSS and HTML``` 	|                                                               	|           	|
+|  04  	| Position, Display, Overflow in CSS         	| ```Make an Analog clock```                                                  	|                                                               	|           	|
+|  05  	| Introduction to Javascript                 	| ```Covering The Basics```                                                   	|                                                               	|           	|
+|  06  	| Introduction to Javascript (Contd.)        	| ```JavaScript coding based challenges```                                    	|                                                               	|           	|
+|  07  	| Objects in JavaScript                      	| ```JavaScrpit Coding based Challenges```                                    	|                                                               	|           	|
+|  08  	| Objects in JavaScript (Contd.)             	| ```Seat Book Counter```                                                     	|                                                               	|           	|
+|  09  	| this keyword in JavaScript                 	| ```Play with this, bind(), apply, call() and events```                      	|                                                               	|           	|
+|  10  	| Functions in JavaScript                    	| ```Make a card based memory game```                                         	|                                                               	|           	|
+|  11  	| Prototypical Inheritance                   	| ```make a quiz app using JS```                                              	|                                                               	|           	|
+|  12  	| Synchronous And Asynchronous Javascript    	| ```Make a TODO list using localStorage```                                   	|                                                               	|           	|
+|  13  	| Promises, Async and Await in JS            	| ```Make a website using API```                                              	|                                                               	|           	|
+|  14  	| React Basics                               	| ```Print HELLO world using React```                                         	|                                                               	|           	|
+|  15  	| Installing React and Functional Components 	| ```(a)Make a card display React app```                                      	|                                                               	|           	|
+|      	|                                            	| ```(b)Make a chess grid card application using React```                     	|                                                               	|           	|
+|  17  	| JSX and React Props                        	| ```Make a scroll view in React```                                           	|                                                               	|           	|
+| 17   	|                                            	|                                                                             	|                                                               	|           	|
+| 18   	|                                            	|                                                                             	|                                                               	|           	|
+| 19   	|                                            	|                                                                             	|                                                               	|           	|
+| 20   	|                                            	|                                                                             	|                                                               	|           	|
+| DAY1 	|                                            	|                                                                             	|                                                               	|           	|
+| DAY1 	|                                            	|                                                                             	|                                                               	|           	|
+| DAY1 	|                                            	|                                                                             	|                                                               	|           	|
+| DAY1 	|                                            	|                                                                             	|                                                               	|           	|
+| DAY1 	|                                            	|                                                                             	|                                                               	|           	|
